@@ -84,23 +84,27 @@ curl http://localhost:9080/health
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-### 📈 Stats & Activity
+### 🔥 Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisigmac&show_icons=true&theme=github_dark&count_private=true&hide_border=false&bg_color=0d1117&text_color=ffffff&title_color=00AA00&icon_color=00AA00)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pisigmac&theme=github-dark&hide_border=true&background=0d1117&stroke=00AA00&ring=00AA00&fire=00AA00&currStreakNum=ffffff&currStreakLabel=00AA00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/pisigmac)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pisigmac&theme=github-dark&hide_border=true&background=0d1117&stroke=00AA00&ring=00AA00&fire=00AA00&currStreakNum=ffffff&currStreakLabel=00AA00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+### 🎯 Activity Graph  
 
-### 🗣️ Most Used Languages
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)](https://github.com/pisigmac)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisigmac&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&text_color=ffffff&title_color=00AA00&hide=html,css&card_width=500)
+### 📈 Key Statistics
 
-### 🎯 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)
+| Metric | Value |
+|:---|:---:|
+| 📦 **Public Repositories** | [View All](https://github.com/pisigmac?tab=repositories) |
+| ⭐ **Total Stars** | [KubeMind & Projects](https://github.com/pisigmac?tab=repositories) |
+| 🐍 **Primary Languages** | Python · Go · TypeScript |
+| 🎯 **Focus Areas** | AI Governance · Cloud Infrastructure · Security |
+| 💼 **Contributions** | Active Open Source Contributor |
 
 </div>
 
@@ -110,14 +114,49 @@ curl http://localhost:9080/health
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD000?style=flat-square) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Vector DB](https://img.shields.io/badge/pgvector-336791?style=flat-square) |
-| **Cloud & DevOps** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square) |
-| **Security** | ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white) |
+### 🔧 Languages & Frameworks
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+### 🤖 AI & Machine Learning
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD000?style=flat-square&logo=huggingface)](https://huggingface.co/docs/transformers/)
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx)](https://onnx.ai/)
+[![LLMs](https://img.shields.io/badge/LLMs-00AA00?style=flat-square)](https://github.com/pisigmac/KubeMind)
+
+### 💾 Databases & Storage
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)](https://github.com/pgvector/pgvector)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+
+### ☸️ Cloud & DevOps
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh)
+
+### 📊 Observability & Monitoring
+
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
+[![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
+
+### 🔐 Security & Cryptography
+
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)](https://www.vaultproject.io/)
+[![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)](https://www.openssl.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 
 </div>
 
@@ -140,9 +179,11 @@ I believe in building **open, auditable systems** where:
 ### 📱 Find Me Online
 
 [![GitHub](https://img.shields.io/badge/GitHub-@pisigmac-181717?style=for-the-badge&logo=github)](https://github.com/pisigmac)
-[![Twitter](https://img.shields.io/badge/Twitter-@vickcodes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vickcodes)
+[![Twitter](https://img.shields.io/badge/Twitter-@vickcodes-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vickcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikasbudde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasbudde)
 [![Email](https://img.shields.io/badge/Email-hello@pisigmac.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pisigmac.dev)
+
+---
 
 **Open to:**
 - 🎯 Consulting on AI governance & LLM deployment strategies
@@ -177,11 +218,11 @@ I believe in building **open, auditable systems** where:
 
 ## 💡 Key Repositories
 
-| Repository | Description | Stars |
+| Repository | Description | Stack |
 |:---|:---|:---:|
-| [KubeMind](https://github.com/pisigmac/KubeMind) | Kubernetes-Native AI Governance Gateway | ⭐ |
-| [sdk/python](https://github.com/pisigmac/KubeMind/tree/master/sdk/python) | Python SDK for KubeMind | 🐍 |
-| [sdk/typescript](https://github.com/pisigmac/KubeMind/tree/master/sdk/typescript) | TypeScript/Node.js SDK | 📘 |
+| [**KubeMind**](https://github.com/pisigmac/KubeMind) | Kubernetes-Native AI Governance Gateway | Python · Go · TypeScript |
+| [**KubeMind SDK (Python)**](https://github.com/pisigmac/KubeMind/tree/master/sdk/python) | Enterprise RAG & LLM Governance SDK | 🐍 Python |
+| [**KubeMind SDK (TypeScript)**](https://github.com/pisigmac/KubeMind/tree/master/sdk/typescript) | Full-Stack TypeScript/Node.js Integration | 📘 TypeScript |
 
 ---
 
