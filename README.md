@@ -103,11 +103,18 @@ curl http://localhost:9080/health
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisigmac&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisigmac&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00AA00)](https://github.com/pisigmac)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisigmac&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisigmac&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00AA00)](https://github.com/pisigmac)
 
 </div>
+
+**📈 Profile Highlights:**
+- 🐍 Python · 🔵 TypeScript · 🟦 Go Engineer
+- 🏗️ Full-Stack Infrastructure & AI Systems
+- 🔐 Security & Cryptographic Systems Focus
+- 📦 Production Kubernetes Deployments
+- 🚀 Open Source Contributor
 
 ---
 
