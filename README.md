@@ -6,6 +6,8 @@
 
 *Building production-grade AI governance, Kubernetes orchestration, and cryptographic security systems*
 
+![Profile Views](https://komarev.com/ghpvc/?username=pisigmac&style=flat-square&color=00AA00)
+
 [![KubeMind Badge](https://img.shields.io/badge/KubeMind-Production%20Ready-00AA00?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/pisigmac/KubeMind)
 [![Open Source](https://img.shields.io/badge/Open%20Source-MIT-purple?style=for-the-badge&logo=github)](https://github.com/pisigmac)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -82,39 +84,42 @@ curl http://localhost:9080/health
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisigmac&show_icons=true&theme=github_dark&count_private=true&hide_border=false&bg_color=0d1117&text_color=ffffff&title_color=00AA00&icon_color=00AA00)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pisigmac&theme=github-dark&hide_border=true&background=0d1117&stroke=00AA00&ring=00AA00&fire=00AA00&currStreakNum=ffffff&currStreakLabel=00AA00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+### 🗣️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisigmac&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&text_color=ffffff&title_color=00AA00&hide=html,css&card_width=500)
+
+### 🎯 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
 
 | **Category** | **Technologies** |
 |:---|:---|
-| **Languages** | Python · Go · TypeScript/Node.js · Bash |
-| **AI/ML** | LLMs · pgvector · ONNX · Transformers · RAG |
-| **Infrastructure** | Kubernetes · Docker · Helm · PostgreSQL · Redis |
-| **Cloud** | AWS · GCP · Azure · Self-Hosted · Air-Gapped |
-| **Observability** | OpenTelemetry · Prometheus · Grafana · Sentry |
-| **Security** | Cryptography · JWT/RS256 · RBAC · HashiCorp Vault |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD000?style=flat-square) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Vector DB](https://img.shields.io/badge/pgvector-336791?style=flat-square) |
+| **Cloud & DevOps** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square) |
+| **Security** | ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white) |
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisigmac&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00AA00)](https://github.com/pisigmac)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisigmac&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00AA00)](https://github.com/pisigmac)
-
-</div>
-
-**📈 Profile Highlights:**
-- 🐍 Python · 🔵 TypeScript · 🟦 Go Engineer
-- 🏗️ Full-Stack Infrastructure & AI Systems
-- 🔐 Security & Cryptographic Systems Focus
-- 📦 Production Kubernetes Deployments
-- 🚀 Open Source Contributor
 
 ---
 
@@ -132,12 +137,12 @@ I believe in building **open, auditable systems** where:
 
 <div align="center">
 
-| **Platform** | **Handle/Link** | **Icon** |
-|:---|:---|:---:|
-| **GitHub** | [@pisigmac](https://github.com/pisigmac) | 🐙 |
-| **Twitter/X** | [@vickcodes](https://x.com/vickcodes) | 𝕏 |
-| **LinkedIn** | [vikasbudde](https://linkedin.com/in/vikasbudde) | 💼 |
-| **Email** | [Contact](mailto:hello@pisigmac.dev) | 📧 |
+### 📱 Find Me Online
+
+[![GitHub](https://img.shields.io/badge/GitHub-@pisigmac-181717?style=for-the-badge&logo=github)](https://github.com/pisigmac)
+[![Twitter](https://img.shields.io/badge/Twitter-@vickcodes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vickcodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikasbudde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasbudde)
+[![Email](https://img.shields.io/badge/Email-hello@pisigmac.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pisigmac.dev)
 
 **Open to:**
 - 🎯 Consulting on AI governance & LLM deployment strategies
@@ -170,6 +175,16 @@ I believe in building **open, auditable systems** where:
 
 ---
 
+## 💡 Key Repositories
+
+| Repository | Description | Stars |
+|:---|:---|:---:|
+| [KubeMind](https://github.com/pisigmac/KubeMind) | Kubernetes-Native AI Governance Gateway | ⭐ |
+| [sdk/python](https://github.com/pisigmac/KubeMind/tree/master/sdk/python) | Python SDK for KubeMind | 🐍 |
+| [sdk/typescript](https://github.com/pisigmac/KubeMind/tree/master/sdk/typescript) | TypeScript/Node.js SDK | 📘 |
+
+---
+
 <div align="center">
 
 ### Let's Build Something Amazing Together 🚀
@@ -180,6 +195,10 @@ I believe in building **open, auditable systems** where:
 "The best code is invisible—it just works."
 ```
 
-*Last updated: 2026 | Profile auto-generated with 💚*
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pisigmac.pisigmac&left_color=0d1117&right_color=00AA00&left_text=Profile%20Views)
+
+*Last updated: 2026 | Profile auto-updated with 💚*
 
 </div>
