@@ -96,6 +96,14 @@ curl http://localhost:9080/health
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)](https://github.com/pisigmac)
 
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pisigmac&theme=darkhub&row=1&column=6&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎯 GitHub Metrics
+
+[![Metrics](https://metrics.lecoq.io/pisigmac?template=classic&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&base.skip=false&repositories=false&repositories.batch=false&repositories.forks=false&repositories.affiliations=owner&activity=false&activity.days=14&activity.filter=all&activity.limit=5&activity.load=300&activity.visibility=public&community=false&community.includes=followers%2B&community.non.bot=false&languages=true&languages.analysis.type=most-used&languages.analysis.colors=github&languages.analysis.threshold=0%25&languages.limit=8&languages.recent.load=300&languages.recent.days=0&languages.sections=most-used&languages.indepth=false&languages.indepth.roots=false&config.timezone=UTC&config.twemoji=true&config.animated=true&config.colors=00AA00%2C%20%23181717%2C%20%23555555%2C%20%23dddddd%2C%20%23ffffff)](https://metrics.lecoq.io)
+
 ### 📊 Key Statistics
 
 | Metric | Value |
