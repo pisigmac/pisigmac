@@ -92,11 +92,11 @@ curl http://localhost:9080/health
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pisigmac&theme=github-dark&hide_border=true&background=0d1117&stroke=00AA00&ring=00AA00&fire=00AA00&currStreakNum=ffffff&currStreakLabel=00AA00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/pisigmac)
 
-### 🎯 Activity Graph  
+### 📈 Contribution Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)](https://github.com/pisigmac)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pisigmac&theme=github-dark&hide_border=true&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff)](https://github.com/pisigmac)
 
-### 📈 Key Statistics
+### 📊 Key Statistics
 
 | Metric | Value |
 |:---|:---:|
